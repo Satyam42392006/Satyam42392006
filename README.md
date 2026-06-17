@@ -1,280 +1,175 @@
-<!-- ========================= -->
-<!-- CYBERPUNK GITHUB PROFILE  -->
-<!-- ========================= -->
+<div align="center">
 
-<!-- Futuristic Banner (Capsule Render) -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Satyam%20Shukla&fontAlignY=40&fontSize=55&desc=AI%20Assisted%20Full%20Stack%20Developer%20%7C%20BCA%20Student&descAlignY=62&animation=twinkling&color=0:0ff2ff,50:ff00d4,100:7cff00"
-    alt="Cyberpunk Banner"
-  />
-</p>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Satyam Shukla
 
-<!-- Animated Typing Header -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=650&color=00F2FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Universe+%F0%9F%8C%8C;AI-Assisted+Full+Stack+Developer+%E2%9A%A1;FastAPI+%7C+React+%7C+Node.js+%7C+MongoDB+Atlas;Building+clean%2C+modern%2C+production-ready+systems"
-    alt="Typing Header"
-  />
-</p>
+### 🚀 AI Assisted Full Stack Developer | BCA Student
 
-<!-- Quick Links / Social Buttons (Replace placeholders with your real links) -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/satyam-shukla-a223b6245?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:satyamshukla4239@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-FF005D?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://leetcode.com/u/satyam42392006" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-0B0B0F?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
-  </a>
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00F2FF?style=for-the-badge&logo=vercel&logoColor=0B0B0F" alt="Portfolio"/>
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Assisted+Full+Stack+Developer;React+%7C+FastAPI+%7C+MongoDB;Building+Projects+and+Learning+Daily;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
-<!-- Neon Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00f2ff,50:ff00d4,100:7cff00&section=header" alt="divider"/>
-</p>
+</div>
 
-<!-- ========================= -->
-<!-- HERO SUMMARY (RECRUITER)  -->
-<!-- ========================= -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-AI%20Assisted%20Full%20Stack%20Developer-00F2FF?style=flat-square&labelColor=0B0B0F" />
-  <img src="https://img.shields.io/badge/Education-BCA%20Student-FF00D4?style=flat-square&labelColor=0B0B0F" />
-  <img src="https://img.shields.io/badge/Focus-Modern%20Web%20%7C%20APIs%20%7C%20Clean%20Architecture-7CFF00?style=flat-square&labelColor=0B0B0F" />
-</p>
+---
 
-<!-- Compact Profile Snapshot -->
-<table align="center" width="100%">
-  <tr>
-    <td align="left" width="60%">
-      
-### 👾 About Me (Cyber Profile)
+# 🌌 About Me
 
-- ⚡ **Name:** Satyam Shukla  
-- 🧠 **Role:** AI Assisted Full Stack Developer  
-- 🎓 **Education:** BCA Student  
-- 🧩 **Current Internship:** AI Assisted Full Stack Development  
-- 🏢 **Experience:** Administrative Officer Intern at **SGCA Technologies**  
-- 🛠️ **Strengths:** Clean APIs, responsive UIs, scalable architecture, fast iteration with AI tooling  
+```yaml
+Name: Satyam Shukla
+Role: AI Assisted Full Stack Developer
+Education: BCA Student
+Experience:
+  - Administrative Officer Intern at SGCA Technologies
+  - AI Assisted Full Stack Development Intern
+Focus:
+  - React
+  - FastAPI
+  - MongoDB
+Goal:
+  - Become a skilled Software Engineer
 
-    </td>
-    <td align="center" width="40%">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Satyam42392006&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true&theme=radical&border_radius=12"
-        alt="GitHub Stats"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+---
 
-<!-- ========================= -->
-<!-- ABOUT ME CARDS (PRO)      -->
-<!-- ========================= -->
-### 🧬 About Me Cards
+🧠 Currently Learning
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <div align="left">
+- ⚛️ Advanced React
+- 🐍 FastAPI
+- 🍃 MongoDB Atlas
+- ☁️ Deployment & DevOps
+- 🤖 AI-Powered Applications
 
-#### 🛰️ What I Build
-- ⚙️ Production-ready **APIs** with FastAPI / Node.js  
-- 🖥️ Modern **React** frontends with clean UI systems  
-- 🧠 AI-assisted workflows for faster delivery and better code quality  
+---
 
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="left">
+⚡ Tech Stack
 
-#### 🔥 What I Value
-- 🧼 Clean code, readable commits, and maintainable structure  
-- 🧪 Testing mindset + reliable deployment practices  
-- 🤝 Team collaboration and documentation that scales  
+Languages
 
-      </div>
-    </td>
-  </tr>
-</table>
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+"C++" (https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
-<!-- Neon Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:ff00d4,50:00f2ff,100:7cff00&section=header" alt="divider"/>
-</p>
+---
 
-<!-- ========================= -->
-<!-- TECH STACK (BADGES)       -->
-<!-- ========================= -->
-### 🧩 Tech Stack (Neon Loadout)
+Frontend
 
-<!-- Languages -->
-#### 🧠 Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-0B0B0F?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-0B0B0F?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0B0B0F?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
-</p>
+"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+"TailwindCSS" (https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+"Bootstrap" (https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 
-<!-- Frontend -->
-#### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-0B0B0F?style=for-the-badge&logo=react&logoColor=00F2FF" />
-  <img src="https://img.shields.io/badge/HTML5-0B0B0F?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-0B0B0F?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0B0B0F?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
-  <img src="https://img.shields.io/badge/Bootstrap-0B0B0F?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
-</p>
+---
 
-<!-- Backend -->
-#### 🧪 Backend
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-0B0B0F?style=for-the-badge&logo=fastapi&logoColor=00E3C2" />
-  <img src="https://img.shields.io/badge/Node.js-0B0B0F?style=for-the-badge&logo=node.js&logoColor=7CFF00" />
-  <img src="https://img.shields.io/badge/Python-0B0B0F?style=for-the-badge&logo=python&logoColor=3776AB" />
-</p>
+Backend
 
-<!-- Database -->
-#### 🧱 Database
-<p>
-  <img src="https://img.shields.io/badge/MongoDB_Atlas-0B0B0F?style=for-the-badge&logo=mongodb&logoColor=7CFF00" />
-</p>
+"FastAPI" (https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+"Node.js" (https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+"Express" (https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
-<!-- Tools -->
-#### 🧰 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-0B0B0F?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-0B0B0F?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/VS_Code-0B0B0F?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Linux-0B0B0F?style=for-the-badge&logo=linux&logoColor=FCC624" />
-</p>
+---
 
-<!-- ========================= -->
-<!-- FEATURED PROJECTS         -->
-<!-- ========================= -->
-### 🚀 Featured Projects (Project Cards)
+Database
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Satyam42392006/YOUR_PROJECT_1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satyam42392006&repo=YOUR_PROJECT_1&theme=radical&border_radius=12" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Satyam42392006/YOUR_PROJECT_2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satyam42392006&repo=YOUR_PROJECT_2&theme=radical&border_radius=12" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Satyam42392006/YOUR_PROJECT_3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satyam42392006&repo=YOUR_PROJECT_3&theme=radical&border_radius=12" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Satyam42392006/YOUR_PROJECT_4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satyam42392006&repo=YOUR_PROJECT_4&theme=radical&border_radius=12" />
-      </a>
-    </td>
-  </tr>
-</table>
+"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-<!-- ========================= -->
-<!-- OPEN SOURCE CONTRIBUTIONS -->
-<!-- ========================= -->
-### 🧠 Open Source Contributions
+---
 
-| ⚙️ Area | 🧩 What I Contribute | 🔗 Proof / Links |
-|---|---|---|
-| 🛠️ Fixes & Enhancements | Bug fixes, refactors, UI polish, performance improvements | Add PR links here |
-| 📚 Documentation | Clean READMEs, setup guides, API docs | Add PR links here |
-| 🧪 Quality | Tests, linting, CI stability improvements | Add PR links here |
-| 🤝 Collaboration | Issue triage, reviews, and helpful feedback | Add links here |
+💼 Experience
 
-<!-- ========================= -->
-<!-- REAL-WORLD EXPERIENCE     -->
-<!-- ========================= -->
-### 🏢 Real-World Experience
+🏢 SGCA Technologies
 
-| 🧷 Role | 🏭 Organization | 🎯 What I Did | 🧰 Stack |
-|---|---|---|---|
-| 💼 Administrative Officer Intern | **SGCA Technologies** | Process support, coordination, documentation, operational exposure | Documentation • Tools • Teamwork |
-| ⚡ AI Assisted Full Stack Intern | **Current Internship** | Building modern UI + APIs, rapid iteration, production-ready workflows | React • FastAPI • Node.js • MongoDB Atlas |
+Administrative Officer Intern
 
-<!-- Neon Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:7cff00,50:00f2ff,100:ff00d4&section=header" alt="divider"/>
-</p>
+💻 AI Assisted Full Stack Development
 
-<!-- ========================= -->
-<!-- PHILOSOPHY                -->
-<!-- ========================= -->
-### 🧿 Philosophy (How I Work)
+Intern
 
-- 🧱 **Build with Purpose** — Solve real problems with measurable outcomes  
-- 📖 **Learn Every Day** — Improve through projects, feedback, and iteration  
-- 🧼 **Write Clean Code** — Clarity first, scalable structure always  
-- 🛰️ **Stay Curious** — Explore tech deeply and connect ideas across domains  
-- 🤝 **Contribute Back** — Share knowledge and support open-source ecosystems  
+---
 
-<!-- ========================= -->
-<!-- GITHUB METRICS            -->
-<!-- ========================= -->
-### 📊 GitHub Metrics (Neon Telemetry)
+🚀 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Satyam42392006&show_icons=true&theme=radical&hide_border=true&border_radius=12" />
-    </td>
-    <td width="50%">
-      <img src="https://streak-stats.demolab.com?user=Satyam42392006&theme=radical&hide_border=true&border_radius=12" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam42392006&layout=compact&theme=radical&hide_border=true&border_radius=12" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://komarev.com/ghpvc/?username=Satyam42392006&label=Profile%20Views&color=00f2ff&style=for-the-badge" alt="Visitor Counter"/>
-      <br/><br/>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam42392006&theme=radical&hide_border=true&radius=12" alt="Activity Graph"/>
-    </td>
-  </tr>
-</table>
+🌾 KRISHI
 
-<!-- ========================= -->
-<!-- TROPHIES                  -->
-<!-- ========================= -->
-### 🏆 GitHub Trophies
+AI-powered agriculture platform.
 
-<p align="center">
-  <img src="## 🏆 GitHub Trophies
+📈 Flipzon Compare
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Satyam42392006&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)" alt="Trophies"/>
-</p>
+Smart product comparison website.
 
-<!-- ========================= -->
-<!-- CONTRIBUTION SNAKE        -->
-<!-- ========================= -->
-## 🐍 Contribution Snake
+🏔 Trekking Planner
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Satyam42392006/Satyam42392006/output/github-contribution-grid-snake.svg" />
-</p>
+Travel planning platform.
 
-<!-- ========================= -->
-<!-- FOOTER                    -->
-<!-- ========================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Let%E2%80%99s%20Build%20Something%20Premium%20%E2%9A%A1&fontAlignY=70&fontSize=30&animation=twinkling&color=0:0B0B0F,40:00F2FF,70:FF00D4,100:7CFF00" alt="Footer"/>
-</p>
+---
 
-<!-- End of README -->
+🌱 Open Source Goals
+
+- Contribute consistently
+- Build impactful projects
+- Share knowledge
+- Collaborate with developers
+
+---
+
+📜 Philosophy
+
+«🔥 Build With Purpose»
+
+«📚 Learn Every Day»
+
+«✨ Write Clean Code»
+
+«🚀 Stay Curious»
+
+«❤️ Contribute Back»
+
+---
+
+🌐 Connect With Me
+
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)" (YOUR_LINKEDIN)
+
+""LeetCode" (https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)" (YOUR_LEETCODE)
+
+""Gmail" (https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)" (mailto:YOUR_EMAIL)
+
+---
+
+📊 GitHub Stats
+
+https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight
+
+https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight
+
+---
+
+📈 Activity Graph
+
+""Activity Graph" (https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)"
+
+---
+
+🏆 GitHub Trophies
+
+https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark
+
+---
+
+👀 Visitor Counter
+
+https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=blue
+
+---
+
+🐍 Contribution Snake
+
+![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<div align="center">⭐ Thanks for Visiting!
+
+"Code. Learn. Build. Repeat."
+
+</div>
+```
