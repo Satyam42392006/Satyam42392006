@@ -20,13 +20,13 @@
 
 <!-- Quick Links / Social Buttons (Replace placeholders with your real links) -->
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/satyam-shukla-a223b6245?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+  <a href="mailto:satyamshukla4239@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-FF005D?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="YOUR_LEETCODE_URL" target="_blank">
+  <a href="https://leetcode.com/u/satyam42392006" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-0B0B0F?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
   </a>
   <a href="YOUR_PORTFOLIO_URL" target="_blank">
