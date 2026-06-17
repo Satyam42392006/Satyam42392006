@@ -214,11 +214,7 @@ I’m **Satyam Shukla** — an **AI Assisted Full Stack Developer** focused on b
 <!--  TROPHIES                        -->
 <!-- ================================ -->
 <!-- Purpose: Quick credibility booster -->
-## 🏆 GitHub Trophies
 
-<div align="center">
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Satyam42392006&theme=onedark&no-frame=true&row=1&column=7)
-</div>
 
 ---
 
