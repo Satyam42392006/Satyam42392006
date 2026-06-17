@@ -264,16 +264,10 @@
 <!-- ========================= -->
 <!-- CONTRIBUTION SNAKE        -->
 <!-- ========================= -->
-### 🐍 Contribution Snake (Cyber Trail)
+## 🐍 Contribution Snake
 
-<!--
-To enable the snake animation:
-1) Create a workflow using Platane/snk in your profile repo (Satyam42392006/Satyam42392006)
-2) Output to a branch like "output"
-3) Keep the path as shown below
--->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Satyam42392006/Satyam42392006/output/snake.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/Satyam42392006/Satyam42392006/output/github-contribution-grid-snake.svg" />
 </p>
 
 <!-- ========================= -->
