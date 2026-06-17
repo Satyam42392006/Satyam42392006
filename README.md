@@ -22,9 +22,9 @@
 
   <!-- ===== SOCIAL BUTTONS ===== -->
   <!-- Purpose: One-tap contact + credibility (replace YOUR_* with real links) -->
-  <a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="YOUR_LEETCODE_URL" target="_blank"><img src="https://img.shields.io/badge/LeetCode-0B0B0F?style=flat-square&logo=leetcode&logoColor=FFA116"/></a>
+  <a href="https://www.linkedin.com/in/satyam-shukla-a223b6245?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto: satyamshukla4239@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/satyam42392006" target="_blank"><img src="https://img.shields.io/badge/LeetCode-0B0B0F?style=flat-square&logo=leetcode&logoColor=FFA116"/></a>
   <a href="YOUR_PORTFOLIO_URL" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00F2FF?style=flat-square&logo=vercel&logoColor=0B0B0F"/></a>
 
   <br/><br/>
@@ -273,9 +273,9 @@ jobs:
 <!-- Purpose: Clear CTA for recruiters -->
 ## 📩 Contact
 
-- 📧 Email: `YOUR_EMAIL@gmail.com`
-- 💼 LinkedIn: YOUR_LINKEDIN_URL
-- 🧠 LeetCode: YOUR_LEETCODE_URL
+- 📧 Email: `satyamshukla4239@gmail.com`
+- 💼 LinkedIn: https://www.linkedin.com/in/satyam-shukla-a223b6245?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 🧠 LeetCode:https://leetcode.com/u/satyam42392006
 - 🌐 Portfolio: YOUR_PORTFOLIO_URL
 
 <!-- ================================ -->
